@@ -17,3 +17,7 @@
 
 ## Summary:
 ### Successfully applied a pull request workflow to merge changes into master, ensuring branch policies enforced automated checks for secure, high-quality code integration.
+
+<img width="1577" height="263" alt="Image" src="https://github.com/user-attachments/assets/f6f9800d-6c3e-4a61-8ada-18e92efe372d" />
+<img width="1030" height="292" alt="Image" src="https://github.com/user-attachments/assets/02b513d6-142a-4817-a830-957f56589fb4" />
+

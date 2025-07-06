@@ -30,3 +30,5 @@
 ## Summary:
 ### Successfully applied a lock on the master branch to prevent unwanted changes during key development or release phases. Combined with branch security settings, this helps maintain strict control over code changes.
 
+#03
+<img width="1582" height="295" alt="Image" src="https://github.com/user-attachments/assets/91d88417-22d2-448d-ba01-7337a8ada2fa" />

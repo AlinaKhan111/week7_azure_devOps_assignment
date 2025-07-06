@@ -69,3 +69,7 @@ trigger:
 
 ## Summary
 ### By creating a multi-stage pipeline triggered on master, I successfully applied triggers in both build and release processes, fulfilling the assignment’s requirements for Task 7. The pipeline now automatically builds and deploys the application on every commit to the master branch.
+
+<img width="1099" height="831" alt="Image" src="https://github.com/user-attachments/assets/56299b2f-42aa-456c-a86a-10f1b4fff968" />
+
+<img width="1593" height="785" alt="Image" src="https://github.com/user-attachments/assets/977863dd-ed12-46e0-ab69-0d3d9a4bf4da" />
