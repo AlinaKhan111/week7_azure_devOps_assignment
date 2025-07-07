@@ -61,6 +61,7 @@ This ensures your pipeline runs only on master and release/* branches, skipping 
 ### Successfully applied branch and path filters to your build validation policy and pipeline configuration. Now, builds trigger only on specified branches and when relevant files change, optimizing your CI/CD workflow.
 
 #04
-
 <img width="1919" height="824" alt="Image" src="https://github.com/user-attachments/assets/e4ef7a6e-28db-4bb0-a8ce-034f66e458be" />
-<img width="567" height="849" alt="Image" src="https://github.com/user-attachments/assets/e40fa82f-0ef2-4b43-a8cc-d616aa5c6f2d" />
+
+
+![Image](https://github.com/user-attachments/assets/a1e1157b-2937-4d59-a4b2-eeb76999212d)

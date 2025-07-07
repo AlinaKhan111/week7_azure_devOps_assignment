@@ -39,3 +39,6 @@ Branch policies and security were successfully applied on master, ensuring:
 - Builds validate code before merging.
 - Only project administrators can push directly, maintaining a secure, controlled workflow.
 
+![Image](https://github.com/user-attachments/assets/4da19e7f-c2da-45d2-bc3b-0d42e0c37823)
+
+![Image](https://github.com/user-attachments/assets/158a1106-8f75-4076-bc93-73e0b832f4fc)
